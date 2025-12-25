@@ -1,6 +1,6 @@
 # Hemanthrb
 <h1 align="center">Hi 👋, I'm Hemanth Kumar RB</h1>
-<h3 align="center">QA Analyst | Aspiring Data Analyst | Six Sigma Yellow Belt</h3>
+<h3 align="center">QA Assurance Analyst | Aspiring Data Analyst | Six Sigma Yellow Belt</h3>
 
 <p align="center">
   🌟 Passionate about data-driven decisions and continuous improvement<br>
